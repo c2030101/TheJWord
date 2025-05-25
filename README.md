@@ -15,19 +15,19 @@ This Chrome extension is designed to help users stay focused by blocking distrac
 Clone this repository to your local machine using HTTPS:
 
 ```bash
-git clone https://github.com/your-username/social-media-blocker.git
+git clone https://github.com/c2030101/TheJWord.git
 ```
 
 Or, if you have SSH set up with GitHub:
 
 ```bash
-git clone git@github.com:your-username/social-media-blocker.git
+git clone git@github.com:c2030101/TheJWord.git
 ```
 
 Navigate into the cloned directory:
 
 ```bash
-cd social-media-blocker
+cd TheJWord
 ```
 
 ### 2. Load the Extension in Chrome
